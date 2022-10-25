@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Wigebox built the Pastel KWGt app as a Commercial app. This SERVICE is provided by Wigebox and is intended for use as is.
+Wigebox built the Pastel KWGT app as a Commercial app. This SERVICE is provided by Wigebox and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
