@@ -1,5 +1,37 @@
 [
-	{
+    {
+		"name": "Pastel 30",
+		"url": "https://github.com/wig-dotcom/pastelKWGT/raw/main/20230114_234109_0000.jpg",
+		"thumbnail": "https://github.com/wig-dotcom/pastelKWGT/raw/main/20230114_234109_0000.png",
+		"downloadable": "True"
+    },
+    {
+		"name": "Pastel 31",
+		"url": "https://github.com/wig-dotcom/ProWalls_Amoled/raw/main/Untitled%20design%20(14).png",
+		"thumbnail": "https://github.com/wig-dotcom/pastelKWGT/raw/main/20230115_122433_0000.jpg",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Pastel 32",
+		"url": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230114_234449_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230114_234449_0000.jpg",
+		"downloadable": "True"
+    },
+    {
+		"name": "Pastel 33",
+		"url": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230114_234945_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230114_234945_0000.jpg",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "Pastel 34",
+		"url": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230115_123752_0000.png",
+		"thumbnail": "https://github.com/wig-dotcom/pastelKWGT/raw/main/png_20230115_123752_0000.jpg",
+		"downloadable": "True"
+    },
+    {
 		"name": "Pastel 24",
 		"author": "Wigebox",
 		"url": "https://github.com/wig-dotcom/pastelKWGT/raw/main/20221202_123702_0000.png",
